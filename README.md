@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabilashan Ganeshan
-  An educator with an interest to solve real world problems
-  through the knowledge of coding as side quests...
+  - An educator with an interest to solve real world problems
+    through the knowledge of coding as side quests...
 
 - 👀 I’m interested in:
       - Building applications to Aid Day to Day Technical Lifestyle
