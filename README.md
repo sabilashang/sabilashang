@@ -1,18 +1,21 @@
-- 👋 Hi, I’m Sabilashan Ganeshan
-  - An educator with an interest to solve real world problems
-    through the knowledge of coding as side quests...
+# 👋 Hi, I’m Sabilashan Ganeshan
 
-- 👀 I’m interested in:
-      - Building applications to Aid Day to Day Technical Lifestyle
-      - Web Development
-      - AI and Automation
-      - Side quests for personal interest and satisfaction
-  
-- 🌱 I’m currently learning:
-     -  Various libraries in Python
-     -  Web Development Frameworks
-     -  SQL
+I'm an educator passionate about solving real-world problems using the power of code, with side quests exploring various technical challenges.
 
-- 💞️ I’m looking to collaborate on anything (quick to learn)
+## 👀 What I’m Interested In:
+- Building applications to enhance everyday technical tasks
+- Web development, from front-end to back-end solutions
+- AI, automation, and emerging technologies
+- Pursuing side projects for personal growth and satisfaction
 
-- 📫 Reach me at: @sabilashan_g(https://www.instagram.com/sabilashan_g/)
+## 🌱 What I’m Currently Learning:
+- Expanding my knowledge of Python libraries for data processing and automation
+- Diving into modern web development frameworks to create scalable applications
+
+## 💞️ Open to Collaboration On:
+- Projects that push the boundaries of learning
+- Web, AI, and automation ideas that can impact daily life
+- I'm quick to learn and adapt to new challenges!
+
+## 📫 How to Reach Me:
+- Instagram: [@sabilashan_g](https://www.instagram.com/sabilashan_g/)
