@@ -11,7 +11,8 @@
 - 🌱 I’m currently learning:
      -  Various libraries in Python
      -  Web Development Frameworks
+     -  SQL
 
 - 💞️ I’m looking to collaborate on anything (quick to learn)
 
-- 📫 Reach me at: @sabilashan_g [Instagram]
+- 📫 Reach me at: @sabilashan_g(https://www.instagram.com/sabilashan_g/)
