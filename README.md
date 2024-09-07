@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sabilashan Ganeshan
 
-An educator passionate about solving real-world problems through coding.
+An educator and a student passionate about solving real-world problems through coding.
 
 ### 👀 Interests:
 - Building applications for everyday tasks
