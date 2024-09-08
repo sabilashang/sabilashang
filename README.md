@@ -1,5 +1,4 @@
 # 👋 Hi, I’m Sabilashan Ganeshan
-
 An educator and a student passionate about solving real-world problems through coding.
 
 ### 👀 Interests:
